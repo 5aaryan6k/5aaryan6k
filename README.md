@@ -7,10 +7,13 @@
 🎓 +2 in Science | SLC
 🎓 SEE
 
-🌐 Portfolio:
-'''
+---
+
+## SCAN FOR PORTFLIO
+---
 ###<img width="192" height="182" alt="image" src="https://github.com/user-attachments/assets/0d7e8afc-3b24-4f27-98a0-c21dd5b47112" />
-'''
+---
+
 💻 GitHub: https://github.com/Aaryan-dw  
 
 ---
