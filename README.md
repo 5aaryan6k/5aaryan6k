@@ -7,7 +7,8 @@
 🎓 +2 in Science | SLC
 🎓 SEE
 
-🌐 Portfolio: https://www.aaryankoirala.com.np/  
+🌐 Portfolio:
+<img width="192" height="182" alt="image" src="https://github.com/user-attachments/assets/0d7e8afc-3b24-4f27-98a0-c21dd5b47112" />
 💻 GitHub: https://github.com/Aaryan-dw  
 
 ---
@@ -28,18 +29,41 @@ I build **practical software solutions for real-world problems**, especially foc
 ---
 
 ## 🧠 Tech Stack
+MERN
 
 ### 💻 Frontend
-React.js • Tailwind CSS • JavaScript (ES6+) • HTML5 • CSS3  
+• React.js • Tailwind CSS • JavaScript (ES6+) • HTML5 • CSS3  
 
 ### ⚙️ Backend
-Node.js • Express.js • Python • REST APIs  
+• Node.js • Express.js  • REST APIs  
 
 ### 🗄️ Database
-MongoDB • MySQL • PostgreSQL  
+• MongoDB 
+
+### 🤖 Language
+• Python
 
 ### 🛠️ Tools
-Git • GitHub • VS Code • Postman • Figma • FFmpeg  
+• Git • GitHub • VS Code • Postman 
+
+---
+
+## LEARNING IN PROGRESS
+
+### 🔧 LANGUAGES
+• Java • TypeScript 
+
+### ⚙️ FRAMEWORKS
+• Django  • Flask • FastAPIs
+
+### 📡 MULTIMEDIA FRAMEWORK
+• FFmpeg 
+
+### 🗄️ DATABASE
+• MySQL • PostgreSQL 
+
+### 🧰 TOOLS
+• Figma 
 
 ---
 
@@ -67,18 +91,6 @@ Git • GitHub • VS Code • Postman • Figma • FFmpeg
 - Designed for small businesses in Nepal  
 
 **Tech:** MongoDB, Express, React, Node.js  
-🔗 https://github.com/Aaryan-dw  
-
----
-
-### 🎬 ConvertIT
-> Media conversion tool built with Flask & FFmpeg
-
-- Convert audio → video with custom backgrounds  
-- Extract audio from video  
-- Efficient processing using FFmpeg  
-
-**Tech:** Python, Flask, FFmpeg  
 🔗 https://github.com/Aaryan-dw  
 
 ---
